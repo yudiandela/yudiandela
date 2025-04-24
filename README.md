@@ -1,16 +1,13 @@
-## Hi there 👋
+## Halo semua 👋
 
-<!--
-**yudiandela/yudiandela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah seorang freelancer web developer profesional dengan pengalaman lebih dari 5 tahun dalam membangun website yang responsif, cepat, dan user-friendly. Spesialisasi saya mencakup pengembangan frontend dan backend menggunakan teknologi modern seperti HTML, CSS, JavaScript, Vue, React, Node.js, dan PHP.
 
-Here are some ideas to get you started:
+Saya berkomitmen untuk memberikan solusi digital terbaik yang sesuai dengan kebutuhan klien, mulai dari landing page, website company profile, e-commerce, hingga sistem berbasis web yang kompleks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Framework
+
+![Framework](https://skillicons.dev/icons?theme=light&i=php,laravel,javascript,typescript,nodejs,nextjs,nuxt,express,html,bootstrap,tailwind)
+
+### Tools
+
+![Tools](https://skillicons.dev/icons?theme=light&i=postgres,mysql,mongodb,redis,git,linux,ubuntu,docker,nginx,postman,vscode)
