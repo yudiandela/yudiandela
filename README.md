@@ -2,13 +2,13 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="23" /> I'm Yudi Andela</h1>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/yudi-andela">
+    <a href="https://www.linkedin.com/in/yudi-andela" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://www.facebook.com/yudiandela2109">
+    <a href="https://www.facebook.com/yudiandela2109" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
-    <a href="https://t.me/Yudi_Andela">
+    <a href="https://t.me/Yudi_Andela" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
     <a href="mailto:yudhi.andhela@gmail.com">
@@ -63,7 +63,13 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="23
 <h3 align="center">Collaborate With</h3>
 
 <p align="center">
-    <img src="Kerjasama/Naya Logo.png" width="50" />
-    <img src="Kerjasama/Sahabat Logo.png" width="50" />
-    <img src="Kerjasama/Oxxiv Logo.png" width="50" />
+    <a href="https://sahabatapp.com" target="_blank">
+        <img src="Kerjasama/Sahabat Logo.png" width="50" />
+    </a>
+    <a href="https://oxxiv.com/" target="_blank">
+        <img src="Kerjasama/Oxxiv Logo.png" width="50" />
+    </a>
+    <a href="https://naya-studio.com" target="_blank">
+        <img src="Kerjasama/Naya Logo.png" width="50" />
+    </a>
 </p>
