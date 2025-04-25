@@ -1,5 +1,5 @@
 <h1 align="center">Hai <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="23" /> Saya Yudi Andela</h1>
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="23" /> I'm Yudi Andela</h1>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/yudi-andela">
@@ -17,11 +17,15 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="23
 </p>
 
 <p align="center">
-    Saya adalah seorang freelancer web developer profesional dengan pengalaman lebih dari 5 tahun dalam membangun website yang responsif, cepat, dan user-friendly. Spesialisasi saya mencakup pengembangan frontend dan backend menggunakan teknologi modern seperti HTML, CSS, JavaScript, Vue, React, Node.js, dan PHP.
+    I'm a passionate and experienced Full Stack Developer with over 5 years of hands-on experience in web development. I specialize in building powerful, scalable, and user-friendly web applications using Laravel as my main framework, often combined with modern front-end technologies like Vue.js and Tailwind CSS.
 </p>
 
 <p align="center">
-    Saya berkomitmen untuk memberikan solusi digital terbaik yang sesuai dengan kebutuhan klien, mulai dari landing page, website company profile, e-commerce, hingga sistem berbasis web yang kompleks.
+    As a freelancer, I’ve worked helping startups, SMEs, and individual entrepreneurs bring their digital ideas to life. I'm well-versed in remote collaboration tools, agile workflows, and version control systems like Git. I value clean, maintainable code and always aim to deliver reliable solutions on time.
+</p>
+
+<p align="center">
+    If you're looking for someone who can handle both the frontend and backend with attention to detail and a strong problem-solving mindset — I’m here to help. Let’s build something awesome together!
 </p>
 
 <h3 align="center">Framework</h3>
