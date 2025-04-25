@@ -60,7 +60,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="23
     <img src="https://skillicons.dev/icons?theme=light&i=vscode" width="50" />
 </p>
 
-<h3 align="center">Kerjasama</h3>
+<h3 align="center">Collaborate With</h3>
 
 <p align="center">
     <img src="Kerjasama/Naya Logo.png" width="50" />
